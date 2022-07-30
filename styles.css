@@ -1,0 +1,90 @@
+h1 {
+  color: #444444;
+}
+h4 {
+  color: #8e9aaf;
+}
+h6.meteo {
+  color: #4361ee;
+  margin: 40px 0 10px 0;
+}
+
+svg.cloud {
+  width: 96px;
+}
+
+svg.cloud path {
+  fill: #4895ef;
+}
+
+h2 {
+  color: #444444;
+}
+
+.my-location {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.temperature {
+  display: block;
+  margin: -60px 120px 0;
+}
+
+span.degrees {
+  position: relative;
+  bottom: 50px;
+  margin-left: 60px;
+  font-size: 24px;
+  color: #333333;
+}
+
+.weather-desc {
+  margin: 60px 0 0 0;
+}
+
+.desc {
+  color: #333333;
+}
+
+.fa-droplet,
+.fa-wind {
+  color: #4895ef;
+}
+
+.weekly-meteo {
+  width: 10rem;
+  height: 10rem;
+  margin: 0 8px 0 8px;
+}
+
+.day {
+  text-align: center;
+  font-size: 18px;
+}
+
+.fa-cloud-showers-heavy,
+.fa-cloud-sun,
+.fa-cloud-bolt,
+.fa-cloud {
+  display: block;
+  text-align: center;
+  font-size: 36px;
+  color: #4895ef;
+}
+
+.day-content {
+  text-align: center;
+}
+
+.weekly-meteo-desc {
+  margin-top: 8px;
+}
+
+.border {
+  width: 70%;
+}
+
+a.temp {
+  text-decoration: none;
+}
