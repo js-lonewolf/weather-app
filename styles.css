@@ -88,3 +88,11 @@ span.degrees {
 a.temp {
   text-decoration: none;
 }
+
+git .git-container {
+  padding-top: 20px;
+}
+
+.git-url {
+  margin: 20px 0 0 8px;
+}
