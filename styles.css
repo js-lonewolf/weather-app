@@ -53,7 +53,7 @@ span.degrees {
 }
 
 .weekly-meteo {
-  width: 10rem;
+  width: 10rem !important;
   height: 10rem;
   margin: 0 8px 0 8px;
 }
